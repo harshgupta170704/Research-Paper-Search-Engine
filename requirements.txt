@@ -1,7 +1,8 @@
-endee
+streamlit
 sentence-transformers
+endee
+PyPDF2
 fastapi
 uvicorn
-PyPDF2
-python-multipart
-aiofiles
+torch
+numpy
