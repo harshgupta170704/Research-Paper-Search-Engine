@@ -1,0 +1,7 @@
+endee
+sentence-transformers
+fastapi
+uvicorn
+PyPDF2
+python-multipart
+aiofiles
